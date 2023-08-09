@@ -21,7 +21,8 @@ Você é um analista de dados júnior que trabalha na equipe de analistas de mar
 
 ### Produtos
 
-- Um programa de compartilhamento de bicicletas que conta com mais de 5.800 bicicletas e 600 estações de compartilhamento. A maioria dos ciclistas opta por bicicletas tradicionais; cerca de 8% dos motociclistas usam as opções assistivas. Os usuários da Cyclistic são mais propensos a pedalar por lazer, mas cerca de 30% utilizam as bicicletas para se deslocarem ao trabalho diariamente. A Cyclistic baseava-se na conscientização geral e no apelo a amplos segmentos de consumidores. Uma abordagem que ajudou a tornar essas coisas possíveis foi a flexibilidade de seus planos de preços: passes de viagem única, passes de dia inteiro e planos anuais.
+- Um programa de compartilhamento de bicicletas que conta com mais de 5.800 bicicletas e 600 estações de compartilhamento. A maioria dos ciclistas opta por bicicletas tradicionais; cerca de 8% dos m
+  otociclistas usam as opções assistivas. Os usuários da Cyclistic são mais propensos a pedalar por lazer, mas cerca de 30% utilizam as bicicletas para se deslocarem ao trabalho diariamente. A Cyclistic baseava-se na conscientização geral e no apelo a amplos segmentos de consumidores. Uma abordagem que ajudou a tornar essas coisas possíveis foi a flexibilidade de seus planos de preços: passes de viagem única, passes de dia inteiro e planos anuais.
 
 ## Sobre a empresa
 
@@ -40,7 +41,7 @@ A Cyclistic se diferencia por também oferecer bicicletas reclináveis, triciclo
 
 ### 📋 [Compartilhamento](#5-compartilhamento)
 
-### 🧗 [Ação](#6-Ação)
+### 🧗 [Ação](#6-ação)
 
 ## 1. Pergunta
 
@@ -472,7 +473,7 @@ Ano_2022 %>%
 - Detalhe neste quadro membros anuais durante dia da semana tem um número maior de passeio se comprando com usuário casual.
 - O tempo médio passeio do usuário casual são maiores que membros (member com plano anual).
 
-### 5. Compartilhamento
+## 5. Compartilhamento
 
 ### Analisando tempo médio por dia da semana por membro casual ou anual
 
@@ -671,7 +672,7 @@ Ano_2022 %>%
 
 - Para o membro causal a bike preferida clássica e elétrica.
 
-### 6. Ação
+## 6. Ação
 
 6.1 Consideração
 
